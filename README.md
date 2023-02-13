@@ -7,3 +7,6 @@ floppy_bird game is equipped with all game functonality that helps user to feel 
 ![git](https://user-images.githubusercontent.com/115473304/218353642-e96de9e6-189a-45ee-81b0-7c0470a17114.png)
 
 ![grt2](https://user-images.githubusercontent.com/115473304/218353870-50d6aebb-c668-4c9c-8ef6-26b4dcc6ede1.png)
+
+# Rating 
+Rate the app.
